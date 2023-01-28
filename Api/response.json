@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "data": [
+        {
+    "nama" : "Iqbal",
+    "kelas" : "12",
+    "umur" : 17
+}
+    ]
+}
